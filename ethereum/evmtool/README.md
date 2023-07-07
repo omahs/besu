@@ -16,7 +16,7 @@ for each invocation when run via the Java runtime.
 
 Current as of 24 Jun 2023.
 
-MacOS users will typically encounter two problems,one relating to the
+MacOS users will typically encounter two problems, one relating to the
 version of Python used and one relating to zsh.
 
 Homebrew will only install the most recent version of Python
